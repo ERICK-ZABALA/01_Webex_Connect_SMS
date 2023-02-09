@@ -22,7 +22,7 @@ You need to create an account using a corporative mail in order to use you Webex
 
 # Code: 
 
-#############################################################################################################################
+
 import requests
 
 headers = {
@@ -41,7 +41,6 @@ response = requests.post('https://api-sandbox.imiconnect.io/v1/sms/messages', he
 
 print(response)
 
-#############################################################################################################################
 
 ![image](https://user-images.githubusercontent.com/38144008/217720492-fa88752a-33c1-44ba-ae69-d8e5f0fb9307.png)
 
