@@ -26,6 +26,7 @@ import requests
 
 headers = {
     'Authorization': 'e4axxxxx-a2a6-xxxd-9fxx-xxxx',
+    
     # Already added when you pass json= but not when you pass data=
     # 'Content-Type': 'application/json',
 }
