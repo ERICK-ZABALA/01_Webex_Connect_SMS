@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this lab we are going to send a simple mesagge via Python with Cisco Webex Connect. That is real simple and easy, I hope that enjoy :).
+In this lab we are going to send a simple mesagge via Python with Cisco Webex Connect. That is really simple and easy, I hope that enjoy :).
 
 ## Steps
 
