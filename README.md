@@ -20,27 +20,5 @@ You need to create an account using a corporative mail in order to use you Webex
 
 # 3. That is my code in Python as example in order to test in your account.
 
-# Code: 
-
-
-import requests
-
-headers = {
-    'Authorization': 'e4axxxxx-a2a6-xxxd-9fxx-xxxx',
-    
-}
-
-json_data = {
-    'from': '+143729xxxxx',
-    'to': '+15144xxxx',
-    'content': 'Cisco Live!!!',
-    'contentType': 'TEXT',
-}
-
-response = requests.post('https://api-sandbox.imiconnect.io/v1/sms/messages', headers=headers, json=json_data)
-
-print(response)
-
-
 ![image](https://user-images.githubusercontent.com/38144008/217720492-fa88752a-33c1-44ba-ae69-d8e5f0fb9307.png)
 
