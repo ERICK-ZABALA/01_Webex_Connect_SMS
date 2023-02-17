@@ -22,3 +22,8 @@ You need to create an account using a corporative mail in order to use you Webex
 
 ![image](https://user-images.githubusercontent.com/38144008/217720492-fa88752a-33c1-44ba-ae69-d8e5f0fb9307.png)
 
+When you send the messa via Python the final result happen in your phone. You are going to receive a sms like this in order to validate your code.
+
+![image](https://user-images.githubusercontent.com/38144008/219520743-ac9460e0-28c4-46ab-b5cf-8bc46be38423.png)
+
+
