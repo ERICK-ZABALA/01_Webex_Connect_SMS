@@ -8,7 +8,7 @@ In this lab we are going to send a simple mesagge via Python with Cisco Webex Co
 
 # 1. Create an account Webex Connect.
 
-You need to create an account using a corporative mail in order to use you Webex Connect by one year FREE!!!.
+You need to create an account using a corporative mail in order to use you Webex Connect by one year FREE!!!. https://sandbox.imiconnect.io/login
 
 ![image](https://user-images.githubusercontent.com/38144008/217719017-2a2378dc-2d73-41cb-9db6-d5bb9e509673.png)
  
