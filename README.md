@@ -32,7 +32,7 @@ Click the "Sign up" button to complete the registration process.
 
 # 3. That is a code in Python as example in order to test in your account.
 
-you need to install the library requests; pip install requests and also you need to create environment previously.
+You need to install the library requests; using pip install requests in your environment previously deployed.
 
 ![image](https://user-images.githubusercontent.com/38144008/217720492-fa88752a-33c1-44ba-ae69-d8e5f0fb9307.png)
 
